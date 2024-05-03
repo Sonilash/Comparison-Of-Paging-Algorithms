@@ -1,0 +1,167 @@
+1. 
+
+FIFO Algorithm:
+Average time taken per process: 0.3 milliseconds
+Total time taken for allocation: 38.77 milliseconds
+Total Page Faults: 102838
+Page Fault Rate: 79.61%
+
+LRU Algorithm:
+Average time taken per process: 0.31 milliseconds
+Total time taken for allocation: 39.68 milliseconds
+Total Page Faults: 25759
+Page Fault Rate: 20.94%
+
+Random Algorithm:
+Average time taken per process: 1.39 milliseconds
+Total time taken for allocation: 178.1 milliseconds
+Total Page Faults: 4517
+Page Fault Rate: 14.65%
+
+Second Chance Algorithm:
+Average time taken per process: 0.01 milliseconds
+Total time taken for allocation: 1.43 milliseconds
+Total Page Faults: 67964
+Page Fault Rate: 55.82%
+
+MRU Algorithm:
+Average time taken per process: 1.38 milliseconds
+Total time taken for allocation: 176.56 milliseconds
+Total Page Faults: 44501
+Page Fault Rate: 36.88%
+___________________________________________________________
+
+
+
+2.
+FIFO Algorithm:
+Average time taken per process: 0.3 milliseconds
+Total time taken for allocation: 38.5 milliseconds
+Total Page Faults: 97420
+Page Fault Rate: 77.5%
+
+LRU Algorithm:
+Average time taken per process: 0.32 milliseconds
+Total time taken for allocation: 41.0 milliseconds
+Total Page Faults: 24049
+Page Fault Rate: 18.63%
+
+Random Algorithm:
+Average time taken per process: 1.31 milliseconds
+Total time taken for allocation: 167.25 milliseconds
+Total Page Faults: 3318
+Page Fault Rate: 8.24%
+
+Second Chance Algorithm:
+Average time taken per process: 0.01 milliseconds
+Total time taken for allocation: 1.26 milliseconds
+Total Page Faults: 46801
+Page Fault Rate: 37.62%
+
+MRU Algorithm:
+Average time taken per process: 1.3 milliseconds
+Total time taken for allocation: 166.75 milliseconds
+Total Page Faults: 39240
+Page Fault Rate: 34.53%
+
+___________________________________________________________
+
+
+3.
+FIFO Algorithm:
+Average time taken per process: 0.31 milliseconds
+Total time taken for allocation: 39.92 milliseconds
+Total Page Faults: 100328
+Page Fault Rate: 78.63%
+
+LRU Algorithm:
+Average time taken per process: 0.32 milliseconds
+Total time taken for allocation: 41.44 milliseconds
+Total Page Faults: 25923
+Page Fault Rate: 20.2%
+
+Random Algorithm:
+Average time taken per process: 1.43 milliseconds
+Total time taken for allocation: 183.14 milliseconds
+Total Page Faults: 6244
+Page Fault Rate: 16.25%
+
+Second Chance Algorithm:
+Average time taken per process: 0.01 milliseconds
+Total time taken for allocation: 1.28 milliseconds
+Total Page Faults: 65453
+Page Fault Rate: 54.14%
+
+MRU Algorithm:
+Average time taken per process: 1.4 milliseconds
+Total time taken for allocation: 179.28 milliseconds
+Total Page Faults: 45372
+Page Fault Rate: 37.58%
+___________________________________________________________
+
+
+4.
+
+FIFO Algorithm:
+Average time taken per process: 0.29 milliseconds
+Total time taken for allocation: 37.62 milliseconds
+Total Page Faults: 95072
+Page Fault Rate: 76.56%
+
+LRU Algorithm:
+Average time taken per process: 0.31 milliseconds
+Total time taken for allocation: 39.14 milliseconds
+Total Page Faults: 48682
+Page Fault Rate: 38.24%
+
+Random Algorithm:
+Average time taken per process: 1.34 milliseconds
+Total time taken for allocation: 171.1 milliseconds
+Total Page Faults: 3997
+Page Fault Rate: 8.4%
+
+Second Chance Algorithm:
+Average time taken per process: 0.01 milliseconds
+Total time taken for allocation: 1.28 milliseconds
+Total Page Faults: 38153
+Page Fault Rate: 34.14%
+
+MRU Algorithm:
+Average time taken per process: 1.33 milliseconds
+Total time taken for allocation: 170.66 milliseconds
+Total Page Faults: 36594
+Page Fault Rate: 33.71%
+
+___________________________________________________________
+
+5.
+FIFO Algorithm:
+Average time taken per process: 0.3 milliseconds
+Total time taken for allocation: 38.97 milliseconds
+Total Page Faults: 100917
+Page Fault Rate: 78.87%
+
+LRU Algorithm:
+Average time taken per process: 0.32 milliseconds
+Total time taken for allocation: 40.35 milliseconds
+Total Page Faults: 27350
+Page Fault Rate: 20.78%
+
+Random Algorithm:
+Average time taken per process: 1.38 milliseconds
+Total time taken for allocation: 176.39 milliseconds
+Total Page Faults: 5223
+Page Fault Rate: 16.6%
+
+Second Chance Algorithm:
+Average time taken per process: 0.01 milliseconds
+Total time taken for allocation: 1.32 milliseconds
+Total Page Faults: 71295
+Page Fault Rate: 57.34%
+
+MRU Algorithm:
+Average time taken per process: 1.36 milliseconds
+Total time taken for allocation: 174.29 milliseconds
+Total Page Faults: 38855
+Page Fault Rate: 35.66%
+
